@@ -1,11 +1,11 @@
-#Privacy policy
-TaRGroup(this project's owner), Trumeet and Rachel respect and protect users' own privacy. To provide you a better environment, we use your privacy according to our privacy policy. To understand us better and avoid possible arguing, please read our policy carefully.  
+#隐私权协议
+TaRGroup （这个项目的拥有者）、 Trumeet 和 Rachel 尊重并保护用户的隐私权。为了给您提供一个更好的环境，我们根据本协议的内容使用您的个人信息。请仔细阅读以下内容以更好地理解我们并防止可能的争吵。  
 
-## Applicable scope
-0. Your data that you gave us yourself or automatically. E.g., when you sign up or log in, your email and password, and your history when enjoying our services or crashing, and so on.  
-1. Other data we get in a legal way.  
+## 适用范围
+0. 您主动或出于特殊行为而自动提供给我们的数据。例如，当您登陆或注册时，您的账号和密码您在享受服务时或者应用出现特殊情况时的历史记录等。  
+1. 我们以其它合法方式获取的数据。  
 
-## How we use your data
+## 您的数据的使用
 0. *We use all of your data to provide, improve or protect our services.* Others may visit your public data. You are usually able to set your data visibility of others, and if you are not we will highlight it.  
 1. We *always* provide a high-secure-level encryption to protect your sensitive data, including your password, your credit card number, and so on. Mostly, only you can see your sensitive information. Other exceptions is pointed out in other sections.  
 2. If we are going to use your data for other things, we will ask you. Also pointed out in other sections.  
