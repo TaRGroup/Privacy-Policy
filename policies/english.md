@@ -1,5 +1,5 @@
-#Privacy policy
-TaRGroup(this project's owner), Trumeet and Rachel(simplified as "we") respect and protect users' own privacy. To provide you a better environment, we use your privacy strictly according to our privacy policy. To understand us better and avoid possible arguing, please read our policy carefully.  
+# Privacy policy
+TaRGroup(this project's owner), Trumeet and Rachel(simplified as "we") respect and protect users' own privacy. To provide you a better environment, we use your privacy strictly according to our privacy policy. To understand us better and avoid possible argument, please read our policy carefully.  
 
 > Note: "Privacy Policy" is simplified as "PP".
 
@@ -9,19 +9,19 @@ TaRGroup(this project's owner), Trumeet and Rachel(simplified as "we") respect a
 
 ## How we use your data
 0. **We use all of your data to provide, improve or protect our services.** Others may visit your public data. You are usually able to set your data visibility of others, and if you are not we will highlight it.  
-1. Mostly, only you can see your sensitive information. Other exceptions is pointed out in other sections.  
-2. If we are going to use your data for other things, we will ask you. Also pointed out.  
+1. On most occasions, only you can see your sensitive information. Other exceptions are pointed out in other sections.  
+2. If we are going to use your data for other purposes, we will ask you. Also pointed out.  
 
 ## Share your data
-0. We will **NEVER** provide, sell, or share your data to third-party, unless we get your acceptive.  
-1. We trust you, however, you are not always right. When there is something big happened, and we have to litigate, we will provide all of your data to the court.  
-2. We may post users' information that are not included any data which can identify you. The information is usually some normal data, like user count and big-data.  
+0. We will **NEVER** provide, sell, or share your data to third-party, unless we get you acceptance.  
+1. We trust you, however, you are not always right. When big news occured, and we have to litigate, we will provide all of your data to the court.  
+2. We may post users' information that do not include any data which can identify you. The information is usually some public data, like user count and big-data.  
 3. If your data is not managed by us, please have a look at other providers' PP.
 
 ## Protect your data
-0. Firstly, **you should properly keep your confidential information safe**. We are not responsible for any account lost caused by users' careless.  
+0. Firstly, **you should properly keep your confidential information safe**. We are not responsible for any account lost caused by users' carelessness.  
 1. We **always** provide a high-secure-level encryption to protect your sensitive data, including your password, your credit card number, and so on.  
-2. If you are voluntary to give your data out or problems must be solved in a legal way, we are not able to protect it anymore. In that case we has no responsibility, and when you are in that case, you default agree this.
+2. If you are voluntary to give your data out or problems must be solved in a legal way, we are not able to protect it anymore. In that case we have no responsibility, and when you are in that case, you defaultly agree with this.
 
 ## Analytics of your data
 
